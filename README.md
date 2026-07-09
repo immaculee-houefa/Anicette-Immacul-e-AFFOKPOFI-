@@ -1,6 +1,6 @@
 Portfolio de Anicette Immaculée Houéfa AFFOKPOFI
 
-## Référente Digitale Junior | Juriste | Passionnée par la transformation numérique et le droit
+## Référente Digitale / Juriste , Passionnée par la transformation numérique et le droit
 
 Bienvenue sur mon portfolio GitHub.
 
