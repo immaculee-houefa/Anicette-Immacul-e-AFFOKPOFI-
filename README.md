@@ -1,16 +1,16 @@
-# Bonjour, je suis Anicette Immaculée Houéfa AFFOKPOFI
+Portfolio de Anicette Immaculée Houéfa AFFOKPOFI
 
 ## Référente Digitale Junior | Juriste | Passionnée par la transformation numérique et le droit
 
 Bienvenue sur mon portfolio GitHub.
 
-Je suis **référente digitale junior** et **juriste** basée à **Parakou (Bénin)**. J'accompagne les particuliers, les entrepreneurs, les entreprises, les administrations, les associations, les ONG et les professionnels du droit dans leur transformation numérique grâce à des solutions pratiques, accessibles, sécurisées et conformes au droit.
+Je suis référente digitale et juriste basée à Parakou (Bénin). J'accompagne les particuliers, les entrepreneurs, les entreprises, les administrations, les associations, les ONG et les professionnels du droit dans leur transformation numérique grâce à des solutions pratiques, accessibles, sécurisées et conformes au droit.
 
 Mon objectif est de rendre le numérique plus simple, plus efficace et plus sûr tout en garantissant le respect des règles juridiques.
 
 ---
 
-# À propos
+ À propos
 
 Je développe des compétences complémentaires en :
 
