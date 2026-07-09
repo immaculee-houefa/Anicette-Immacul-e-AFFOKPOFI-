@@ -10,7 +10,7 @@ Mon objectif est de rendre le numérique plus simple, plus efficace et plus sûr
 
 ---
 
- À propos
+# À propos
 
 Je développe des compétences complémentaires en :
 
