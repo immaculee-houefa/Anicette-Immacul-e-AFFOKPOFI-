@@ -90,7 +90,7 @@ Le projet vise notamment à :
 🔗 **Lien :**
 > À ajouter
 
-https://DIGILEX IMPACT.Com 
+https://DIGILEX-IMPACT.Com 
 
 ## Projets HTML & CSS
 
