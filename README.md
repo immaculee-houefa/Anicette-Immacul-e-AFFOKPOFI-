@@ -89,8 +89,7 @@ Le projet vise notamment à :
 
 🔗 **Lien :**
 > À ajouter
-
-https://DIGILEX-IMPACT.Com 
+https://immaculee-houefa.github.io/DIGILEX-IMPACT/
 
 ## Projets HTML & CSS
 
